@@ -1,0 +1,10 @@
+*.txt*
+*project*
+*.sql
+documents/
+*.sql
+*.xls
+*.xlsx
+*.doc
+*.pdf
+
